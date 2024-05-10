@@ -6,4 +6,5 @@ This project aims to analyze and predict concentrations of Particulate Matter (P
 ### Data
 Source: [open.africa-airquality-Abuja](https://open.africa/dataset/sensorsafrica-airquality-archive-abuja)
 
-### Time Range: [OCtober 2023 - February 2024]
+### Time Range
+[October 2023 - February 2024]
